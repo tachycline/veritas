@@ -1,0 +1,3 @@
+[submodule "housepoints"]
+	path = housepoints
+	url = ../housepoints
