@@ -1,0 +1,15 @@
+name: housepoints
+dependencies:
+- django=1.10.5
+- openssl=1.0.2k
+- pip=9.0.1
+- python=3.6.1
+- readline=6.2
+- setuptools=27.2.0
+- sqlite=3.13.0
+- tk=8.5.18
+- wheel=0.29.0
+- xz=5.2.2
+- zlib=1.2.8
+prefix: /Users/cmckay/anaconda/envs/housepoints
+
